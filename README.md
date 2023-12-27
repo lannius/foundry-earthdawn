@@ -1,22 +1,24 @@
 # foundry-earthdawn
 Basic assets for creating an Earthdawn 4E game in Foundry
 
-Module List  (Not indcluding Earthdawn Modules)
-	Chat Commander
- 	Dice So Nice!
-	Grid Scaler
- 	Ilandril's Chat Enhancements
-	libWraper
- 	Monk's Chat Timer
-	Monk's Combat Details
- 	Monk's Combat Marker
-	Monk's Enhanced Journal
- 	Monk's Little Details
-	Pings
- 	Pop Out!
-	Settings Extender
- 	Simple Calendar
-	Simple Fog
- 	Token Action HUD
-	Tokenizer
- 	Universal Battlemap Importer
+Module List  (Not indcluding Earthdawn Modules)<BR>
+<ul>
+	<li>Chat Commander
+ 	<li>Dice So Nice!
+	<li>Grid Scaler
+ 	<li>Ilandril's Chat Enhancements
+	<li>libWraper
+ 	<li>Monk's Chat Timer
+	<li>Monk's Combat Details
+ 	<li>Monk's Combat Marker
+	<li>Monk's Enhanced Journal
+ 	<li>Monk's Little Details
+	<li>Pings
+ 	<li>Pop Out!
+	<li>Settings Extender
+ 	<li>Simple Calendar
+	<li>Simple Fog
+ 	<li>Token Action HUD
+	<li>Tokenizer
+ 	<li>Universal Battlemap Importer
+</ul>
