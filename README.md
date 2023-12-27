@@ -18,7 +18,7 @@ Module List  (Not indcluding Earthdawn Modules)<BR>
 	<li>Settings Extender</li>
  	<li>Simple Calendar</li>
 	<li>Simple Fog</li>
- 	<li>Token Action HUD Classic</li>
+ 	<li>Token Action HUD Core</li>
 	<li>Token Action HUD Earthdawn</li>
 	<li>Tokenizer</li>
  	<li>Universal Battlemap Importer</li>
